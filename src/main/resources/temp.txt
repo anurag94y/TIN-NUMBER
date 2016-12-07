@@ -1,0 +1,11 @@
+{
+  "TIN " : " 07490304055",
+  "Dealer Name " : " RISHABH INDUSTRIES",
+  "Dealer Address  " : " HOUSE NO.-11, BADLI, DELHI  110042",
+  "CST Number " : " 07490304055",
+  "PAN " : " AGKPM2228C",
+  "This record is valid as on   (DD/MM/YY) " : " 13/03/13",
+  "State Name " : " Delhi",
+  "Dealer Registration Status under CST Act " : " Active",
+  "Date of Registration under CST Act   (DD/MM/YY) " : " 16/01/06  "
+}
